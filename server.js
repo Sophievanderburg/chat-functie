@@ -4,7 +4,7 @@ const app = express()
 const http = require('http').createServer(app)
 const path = require('path')
 const io = require('socket.io')(http)
-const port = process.env.PORT || 4242
+const port = process.env.PORT || 9876
 
 app.set('view engine', 'ejs');
 app.set('views', './views');
