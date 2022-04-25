@@ -1,2 +1,2 @@
-# chat-functie
-Chat functie met functie
+# Real-Time Web @cmda-minor-web 2021 - 2022
+
